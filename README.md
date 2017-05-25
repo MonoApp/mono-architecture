@@ -6,4 +6,4 @@ Let us back to the origin of the idea, We think it is "How make your business on
 
 That language is a kind of Template Language, That could easy to define all your needs from the Persistence to the GUI. That could easy to porting your business upon the distributed world, you don't need understand any knowledges such like DevOps ...
 
-Final, We trying to reducing all duplicate cost into one Language, Make your business online at minimum cost.
+Final, We trying to reducing all duplicate costs into one Language, Make your business online at minimum cost.
