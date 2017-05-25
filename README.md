@@ -1,3 +1,5 @@
+A portable business define language. Write your business into a one place, porting your business upon the distributed world.
+
 ## Core Concept
 
 Recent years we saw a new concept become more and more popular, that concept called `Full Stack Engineer`. It means one Engineer handing all things, build a Web Site or a Mobile App by one person's two hands. That person must know every details from the Persistence Layer to the GUI, from the DevOps to the CSS, there too many knowledges need to leran. 
