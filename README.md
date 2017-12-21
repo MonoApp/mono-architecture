@@ -13,7 +13,7 @@ Final, we trying to reducing all duplicate costs into one Language, make your bu
 
 ## Picture Of Portable Architecture
 
-In fact, the core issue is: " How porting the Language upon the infrastructure, and Current Clound Services is meets our expectation of the infrastructure? "
+In fact, the core issue is: " How porting the Language upon the infrastructure, and Current Cloud Services is meets our expectation of the infrastructure? "
 
 ### Life Cycle / CI / CD
 
