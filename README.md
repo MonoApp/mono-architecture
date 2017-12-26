@@ -8,7 +8,7 @@ Let us back to the origin of the idea, we think it is "How make your business on
 
 That Language is a kind of Template Language, that could easy to define all your needs from the Persistence Layer to the GUI. That could easy to porting your business upon the distributed world, you don't need understand any knowledges such like DevOps ...
 
-Final, we trying to reducing all duplicate costs into one Language, make your business online at minimum cost.
+Finally, we trying to reducing all duplicate costs into one Language, make your business online at minimum cost.
 
 
 ## Picture Of Portable Architecture
